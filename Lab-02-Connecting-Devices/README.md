@@ -1,4 +1,4 @@
-# Day 02 - Connecting Devices
+# Lab 02 - Connecting Devices
 
 ## Topics Covered
 - Copper Straight-Through Cable
